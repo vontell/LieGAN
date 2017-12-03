@@ -2,10 +2,17 @@ import keras
 from keras.models import Sequential
 from keras.layers import Dense, Dropout
 from keras.optimizers import RMSprop, SGD, Adam
+try:
+    import Image
+except ImportError:
+    from PIL import Image
+from pytesseract import image_to_string
 #u ready for some neural nets?
 
 
 # Get labeled meme data
+
+print(image_to_string(Image.open('MEMES/SEX/15_Image_15.jpg')))
 
 # Break into training, test, and validation sets
 
