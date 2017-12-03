@@ -1,0 +1,87 @@
+Image url type count
+
+Month 5
+-rogue, 1
+-imgur, 537
+-skip, 0
+-tumblr -ext, 4
+-tumblr, 0
+-gfycat -ext, 0
+-gfycat, 9
+-reddituploads -ext, 0
+-reddituploads, 6
+-redditmedia -ext, 2
+-redditmedia, 0
+-fbcdn -ext, 7
+-fbcdn, 0
+-ext, 79
+-none, 0
+
+Month 6
+-rogue, 1
+-imgur, 999
+-skip, 0
+-tumblr -ext, 8
+-tumblr, 0
+-gfycat -ext, 0
+-gfycat, 14
+-reddituploads -ext, 0
+-reddituploads, 25
+-redditmedia -ext, 3
+-redditmedia, 0
+-fbcdn -ext, 10
+-fbcdn, 0
+-ext, 199
+-none, 0
+
+Month 7
+-rogue, 2
+-imgur, 1474
+-skip, 2
+-tumblr -ext, 16
+-tumblr, 0
+-gfycat -ext, 0
+-gfycat, 20
+-reddituploads -ext, 0
+-reddituploads, 66
+-redditmedia -ext, 3
+-redditmedia, 0
+-fbcdn -ext, 15
+-fbcdn, 0
+-ext, 355
+-none, 0
+
+Month 8
+-rogue, 2
+-imgur, 1960
+-skip, 2
+-tumblr -ext, 22
+-tumblr, 0
+-gfycat -ext, 0
+-gfycat, 22
+-reddituploads -ext, 0
+-reddituploads, 189
+-redditmedia -ext, 3
+-redditmedia, 0
+-fbcdn -ext, 19
+-fbcdn, 0
+-ext, 568
+-none, 0
+
+Month 9
+-rogue, 3
+-imgur, 2575
+-skip, 2
+-tumblr -ext, 23
+-tumblr, 0
+-gfycat -ext, 0
+-gfycat, 25
+-reddituploads -ext, 0
+-reddituploads, 368
+-redditmedia -ext, 4
+-redditmedia, 0
+-fbcdn -ext, 24
+-fbcdn, 0
+-ext, 952
+-none, 0
+

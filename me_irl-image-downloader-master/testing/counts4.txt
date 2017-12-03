@@ -1,0 +1,53 @@
+Image url type count
+
+Month 15
+-rogue, 0
+-imgur, 324
+-skip, 0
+-tumblr -ext, 4
+-tumblr, 0
+-gfycat -ext, 0
+-gfycat, 2
+-reddituploads -ext, 0
+-reddituploads, 31
+-redditmedia -ext, 2
+-redditmedia, 0
+-fbcdn -ext, 0
+-fbcdn, 0
+-ext, 979
+-none, 0
+
+Month 16
+-rogue, 1
+-imgur, 665
+-skip, 0
+-tumblr -ext, 10
+-tumblr, 0
+-gfycat -ext, 0
+-gfycat, 6
+-reddituploads -ext, 0
+-reddituploads, 50
+-redditmedia -ext, 5
+-redditmedia, 0
+-fbcdn -ext, 0
+-fbcdn, 0
+-ext, 2162
+-none, 0
+
+Month 17
+-rogue, 1
+-imgur, 950
+-skip, 1
+-tumblr -ext, 11
+-tumblr, 0
+-gfycat -ext, 0
+-gfycat, 8
+-reddituploads -ext, 0
+-reddituploads, 58
+-redditmedia -ext, 7
+-redditmedia, 0
+-fbcdn -ext, 1
+-fbcdn, 0
+-ext, 3286
+-none, 0
+
